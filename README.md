@@ -1,4 +1,6 @@
-# hackernews (deploy site)[https://epic-benz-f1e1e2.netlify.com]
+# hackernews 
+인프런 vue.js 강의<br>
+[https://hackernewsinflearn.netlify.app](https://hackernewsinflearn.netlify.app)
 
 ## Project setup
 ```
